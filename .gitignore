@@ -1,7 +1,8 @@
 .venv/
 .idea/
+media/
+
 __pycache__/
+*.pyc
 
 
-digital_product/__pycache__/__init__.cpython-310.pyc
-digital_product/__pycache__/settings.cpython-310.pyc
